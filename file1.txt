@@ -3,3 +3,4 @@ m2: rename method
 m3: add catalogService.
 m4: add getCategoryById method"
 f1: add wishlistService.
+f2: add deleteItem method.
