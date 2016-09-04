@@ -7,3 +7,4 @@ f2: add deleteItem method.
 f3a: add one API.
 f4: add deleteItemes method.
 f5: rename to deleteItemById.
+f6: rename to deleteItemByIds.
