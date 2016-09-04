@@ -5,3 +5,4 @@ m4: add getCategoryById method"
 f1: add wishlistService.
 f2: add deleteItem method.
 f3a: add one API.
+f4: add deleteItemes method.
